@@ -8,10 +8,10 @@ O objetivo é criar um sistema simples de console para gerenciar veículos em um
 
 ## 🎯 Funcionalidades
 
-- 📥 **Adicionar veículo** informando a placa.  
-- 📤 **Remover veículo** calculando o valor a ser pago (preço inicial + preço por hora).  
-- 📋 **Listar veículos** estacionados no momento.  
-- 🚪 **Encerrar o sistema** de forma segura.  
+- **Adicionar veículo** informando a placa.  
+- **Remover veículo** calculando o valor a ser pago (preço inicial + preço por hora).  
+- **Listar veículos** estacionados no momento.  
+- **Encerrar o sistema** de forma segura.  
 
 ---
 
