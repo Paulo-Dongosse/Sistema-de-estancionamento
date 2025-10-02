@@ -1,0 +1,14 @@
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\obj\Debug\net8.0\proj_Sistema_para_Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\obj\Debug\net8.0\proj_Sistema_para_Estacionamento.AssemblyInfoInputs.cache
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\obj\Debug\net8.0\proj_Sistema_para_Estacionamento.AssemblyInfo.cs
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\obj\Debug\net8.0\proj_Sistema_para_Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\bin\Debug\net8.0\proj_Sistema_para_Estacionamento.exe
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\bin\Debug\net8.0\proj_Sistema_para_Estacionamento.deps.json
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\bin\Debug\net8.0\proj_Sistema_para_Estacionamento.runtimeconfig.json
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\bin\Debug\net8.0\proj_Sistema_para_Estacionamento.dll
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\bin\Debug\net8.0\proj_Sistema_para_Estacionamento.pdb
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\obj\Debug\net8.0\proj_Sistema_para_Estacionamento.dll
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\obj\Debug\net8.0\refint\proj_Sistema_para_Estacionamento.dll
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\obj\Debug\net8.0\proj_Sistema_para_Estacionamento.pdb
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\obj\Debug\net8.0\proj_Sistema_para_Estacionamento.genruntimeconfig.cache
+C:\Users\CASA\Documents\proj_Sistema_para_Estacionamento\obj\Debug\net8.0\ref\proj_Sistema_para_Estacionamento.dll
